@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Samruddhiwagh1606
 - 👀 I’m interested in innovation and exploring new things
-- 🌱 I’m currently learning web development and Programming languages
+- 🌱 I’m currently learning web development and Programming language- java
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Linkedin:  https://www.linkedin.com/in/samruddhi-wagh-176443319/   Email:samruddhiwagh1606@gmail.com
 - 😄 Pronouns: Her-Samruddhi
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Connecting people
 
 <!---
 Samruddhiwagh1606/Samruddhiwagh1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
