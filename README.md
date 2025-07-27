@@ -5,20 +5,22 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
-- 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
-- 💞️ Open to collaborate on **Web Development & Java-based projects**  
-- 🎯 Interested in **innovation and exploring new technologies**  
+## 🚀 About Me
+<table>
+<tr>
+<td>
 
----
+🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
+🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
+💞️ Open to collaborate on **Web Development & Java-based projects**  
+🎯 Interested in **innovation and exploring new technologies**  
 
-<div align="center">
-  
-  ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-  ### 👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
-
-</div>
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+</td>
+</tr>
+</table>
 
 ---
 
