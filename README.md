@@ -6,18 +6,33 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Python (Flask)**  
-- 🌱 Familiar with **HTML, CSS** and building beginner-friendly web projects  
+- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
+- 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
 - 💞️ Open to collaborate on **Web Development & Java-based projects**  
 - 🎯 Interested in **innovation and exploring new technologies**  
 
 ---
 
-### 🛠️ Tech Stack
-💻 **Languages & Tools:**  
-`Java` | `Python (Flask)` | `HTML` | `CSS`  
+<div align="center">
+  
+  ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+  ### 👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
 
-📚 *Exploring:* **Spring Boot | Node.js | REST APIs | Advanced DSA in Java**
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+💻 **Languages & Tools:**  
+`Java` | `Python` | `HTML` | `CSS` | `MySQL` | `Postman API` | `Canva`  
+
+---
+
+### 📚 Currently Exploring
+- 🚀 **Advanced Java** – Lambda Expressions, Stream API, Functional Interfaces  
+- 📖 **Core CS Subjects** – DSA (Java) & Computer Networks  
+- 🐍 **Flask (Python)** – for backend web development  
+- 📊 **Learning Analytics Tools** – Orange, Weka, ProM, iSAT  
 
 ---
 
@@ -28,8 +43,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/samruddhi-wagh-176443319/)  
-- 📧 **Email:** samruddhiwagh1606@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/samruddhi-wagh-176443319/)  
+📧 **Email:** samruddhiwagh1606@gmail.com  
 
 ---
 
