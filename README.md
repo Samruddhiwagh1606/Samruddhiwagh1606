@@ -1,24 +1,35 @@
-<h1 align="center" style="font-family: Arial, Helvetica, sans-serif; color: white; font-size: 100px;">
+<h1 align="center" style="color:white; font-size: 50px;">
   👋 Hi there! I'm Samruddhi Wagh
 </h1>
 <h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
 
-<div align="center">
-  
-  ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-  ### 👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
-
-</div>
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+</p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
-- 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
-- 💞️ Open to collaborate on **Web Development & Java-based projects**  
-- 🎯 Interested in **innovation and exploring new technologies**  
+<table>
+<tr>
+<td width="50%">
+  
+  ### 🚀 About Me
+  - 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
+  - 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
+  - 💞️ Open to collaborate on **Web Development & Java-based projects**  
+  - 🎯 Interested in **innovation and exploring new technologies**  
+
+</td>
+<td align="center" width="50%">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+  
+  <br><br>
+  👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,7 +74,6 @@
 ---
 
 <h2 align="center">⚡ Fun Fact 🤩🎉✨</h2>
-
 <h3 align="center">I absolutely LOVE connecting people, sharing ideas, and creating something impactful. Collaboration makes everything more fun! 🚀💡💖</h3>
 
 ---
