@@ -3,14 +3,14 @@
     👋 Hi there! I'm <b>Samruddhi Wagh</b>
   </span>
 </h1>
-
+<h4 align="center">
+  🌟 <b>CSE'28</b> | 🚀 <b>Java Learner</b> | 💻 <b>Web Development Enthusiast</b> | 🌍 <b>Open Source Contributor</b>
+</h4>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420px" />
 </p>
 
-<h3 align="center">
-  🌟 <b>CSE'28</b> | 🚀 <b>Java Learner</b> | 💻 <b>Web Development Enthusiast</b> | 🌍 <b>Open Source Contributor</b>
-</h3>
+
 
 
 ### 🚀 About Me
