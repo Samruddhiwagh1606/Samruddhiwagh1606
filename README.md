@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm Samruddhi Wagh+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Samruddhi+Wagh+👋" />
 </h1>
 
 <p align="center">
