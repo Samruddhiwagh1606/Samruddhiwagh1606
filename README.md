@@ -3,9 +3,12 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gi"/>
-</p>
+<div align="center">
+  
+  ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+  ### 👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
+
+</div>
 
 <h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
 
