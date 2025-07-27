@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gi"/>
 </p>
 
 <h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
@@ -59,7 +59,9 @@
 
 ---
 
-<h2 align="center">⚡ 🤩🎉✨ I absolutely LOVE connecting people, sharing ideas, and creating something impactful. Collaboration makes everything more fun! 🚀💡💖</h2>
+<h2 align="center">⚡ Fun Fact 🤩🎉✨</h2>
+
+<h3 align="center">I absolutely LOVE connecting people, sharing ideas, and creating something impactful. Collaboration makes everything more fun! 🚀💡💖</h3>
 
 ---
 
