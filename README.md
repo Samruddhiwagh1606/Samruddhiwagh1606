@@ -9,27 +9,11 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-  
-  ### 🚀 About Me
-  - 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
-  - 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
-  - 💞️ Open to collaborate on **Web Development & Java-based projects**  
-  - 🎯 Interested in **innovation and exploring new technologies**  
-
-</td>
-<td align="center" width="50%">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-  
-  <br><br>
-  👩‍💻 *I'm a Developer who loves to learn, build, and collaborate!*
-
-</td>
-</tr>
-</table>
+### 🚀 About Me
+- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
+- 🌱 Familiar with **HTML, CSS, Java, Python** and beginner-friendly web projects  
+- 💞️ Open to collaborate on **Web Development & Java-based projects**  
+- 🎯 Interested in **innovation and exploring new technologies**  
 
 ---
 
@@ -67,6 +51,10 @@
   <a href="https://www.linkedin.com/in/samruddhi-wagh-176443319/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
 📧 **Email:** samruddhiwagh1606@gmail.com  
