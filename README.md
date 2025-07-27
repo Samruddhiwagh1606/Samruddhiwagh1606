@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @Samruddhiwagh1606
-- 👀 I’m interested in innovation and exploring new things
-- 🌱 I’m currently learning web development and Programming language- java
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me Linkedin:  https://www.linkedin.com/in/samruddhi-wagh-176443319/   Email:samruddhiwagh1606@gmail.com
-- 😄 Pronouns: Her-Samruddhi
-- ⚡ Fun fact: I love Connecting people
+# 👋 Hi there! I'm **Samruddhi Wagh**  
 
-<!---
-Samruddhiwagh1606/Samruddhiwagh1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor**  
+💡 *Passionate about innovation, problem-solving, and exploring emerging technologies!*  
+
+---
+
+### 🚀 About Me
+- 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Python (Flask)**  
+- 🌱 Familiar with **HTML, CSS** and building beginner-friendly web projects  
+- 💞️ Open to collaborate on **Web Development & Java-based projects**  
+- 🎯 Interested in **innovation and exploring new technologies**  
+
+---
+
+### 🛠️ Tech Stack
+💻 **Languages & Tools:**  
+`Java` | `Python (Flask)` | `HTML` | `CSS`  
+
+📚 *Exploring:* **Spring Boot | Node.js | REST APIs | Advanced DSA in Java**
+
+---
+
+### 📊 GitHub Stats
+![Samruddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samruddhiwagh1606&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhiwagh1606&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/samruddhi-wagh-176443319/)  
+- 📧 **Email:** samruddhiwagh1606@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+✨ *I love connecting people and sharing ideas to create something impactful!*  
+
+---
+
+⭐ *Feel free to check out my repositories and collaborate!*  
