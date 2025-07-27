@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Samruddhi+Wagh+👋" />
+<h1 align="center" style="font-family: Arial, Helvetica, sans-serif; color: white; font-size: 40px;">
+  👋 Hi there! I'm Samruddhi Wagh
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
