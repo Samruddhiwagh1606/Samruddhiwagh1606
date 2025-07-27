@@ -5,6 +5,12 @@
 
 ---
 
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/samruddhi-wagh-176443319/)  
+📧 **Email:** samruddhiwagh1606@gmail.com  
+
+---
+
 ## 🚀 About Me
 <table>
 <tr>
@@ -39,14 +45,16 @@
 ---
 
 ### 📊 GitHub Stats
-![Samruddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samruddhiwagh1606&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhiwagh1606&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/samruddhi-wagh-176443319/)  
-📧 **Email:** samruddhiwagh1606@gmail.com  
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Samruddhiwagh1606&show_icons=true&theme=radical" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhiwagh1606&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
 
 ---
 
