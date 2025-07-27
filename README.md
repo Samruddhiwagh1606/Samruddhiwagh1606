@@ -1,14 +1,17 @@
-<h1 align="center" style="color:white; font-size: 50px;">
-  👋 Hi there! I'm Samruddhi Wagh
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #FF7EB3, #FF758C); -webkit-background-clip: text; color: transparent; font-size: 55px;">
+    👋 Hi there! I'm <b>Samruddhi Wagh</b>
+  </span>
 </h1>
-<h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420px" />
 </p>
-<h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
 
----
+<h3 align="center">
+  🌟 <b>CSE'28</b> | 🚀 <b>Java Learner</b> | 💻 <b>Web Development Enthusiast</b> | 🌍 <b>Open Source Contributor</b>
+</h3>
+
 
 ### 🚀 About Me
 - 🔭 Currently learning **Advanced Java**, **DSA in Java**, and **Computer Networks**  
@@ -47,18 +50,25 @@
 
 ---
 
-### 📫 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/samruddhi-wagh-176443319/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samruddhi-wagh-176443319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samruddhi%20Wagh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:samruddhiwagh1606@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-samruddhiwagh1606%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Samruddhiwagh1606">
+    <img src="https://img.shields.io/badge/GitHub-Samruddhiwagh1606-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
-
-📧 **Email:** samruddhiwagh1606@gmail.com  
 
 ---
 
