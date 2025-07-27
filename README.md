@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Samrat+Tiwag+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm Samruddhi Wagh+👋" />
 </h1>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ---
 
-### ⚡ <span style="font-size: 28px;">Fun Fact 🤩🎉✨</span>  
+### ⚡ <span style="font-size: 40px;">Fun Fact 🤩🎉✨</span>  
 🌟 *I absolutely LOVE connecting people, sharing ideas 💡, and creating something impactful 🚀!*  
 💖 *Collaboration makes everything more fun!* 🎯  
 
