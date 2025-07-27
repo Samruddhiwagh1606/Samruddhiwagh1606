@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: Arial, Helvetica, sans-serif; color: white; font-size: 70px;">
+<h1 align="center" style="font-family: Arial, Helvetica, sans-serif; color: white; font-size: 100px;">
   👋 Hi there! I'm Samruddhi Wagh
 </h1>
 <h3 align="center">🌟 CSE'28 | Java Learner | Web Development Enthusiast | Open Source Contributor 🌟</h3>
